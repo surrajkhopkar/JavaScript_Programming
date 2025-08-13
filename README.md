@@ -9,3 +9,8 @@ Backend: Used in web servers with the help of NodeJs.
 JS is also used in building native mobile applications and native desktop applications.
 
 
+Operator Prededance: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence
+
+
+
+
